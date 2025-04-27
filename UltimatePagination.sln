@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimatePagination", "UltimatePagination\UltimatePagination.csproj", "{AB3D0B92-9A1F-4829-A21A-0EE05464B4ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_SolutionItems", "_SolutionItems", "{00E8EAFE-18D7-46FA-886C-D6DFC1DF5483}"
+	ProjectSection(SolutionItems) = preProject
+		UltimatePagination.sln.DotSettings = UltimatePagination.sln.DotSettings
+		.gitignore = .gitignore
+		.editorconfig = .editorconfig
+		global.json = global.json
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimatePagination.EF", "UltimatePagination.EF\UltimatePagination.EF.csproj", "{D6D31D8F-DBED-451F-8F1B-315F74E24FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimatePagination.Abstraction", "UltimatePagination.Abstraction\UltimatePagination.Abstraction.csproj", "{38E5F11B-630C-4CF8-B1E8-1DD1F0EF3C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3D0B92-9A1F-4829-A21A-0EE05464B4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3D0B92-9A1F-4829-A21A-0EE05464B4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3D0B92-9A1F-4829-A21A-0EE05464B4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3D0B92-9A1F-4829-A21A-0EE05464B4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D31D8F-DBED-451F-8F1B-315F74E24FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D31D8F-DBED-451F-8F1B-315F74E24FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D31D8F-DBED-451F-8F1B-315F74E24FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D31D8F-DBED-451F-8F1B-315F74E24FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E5F11B-630C-4CF8-B1E8-1DD1F0EF3C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E5F11B-630C-4CF8-B1E8-1DD1F0EF3C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E5F11B-630C-4CF8-B1E8-1DD1F0EF3C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E5F11B-630C-4CF8-B1E8-1DD1F0EF3C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

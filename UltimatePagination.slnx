@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/UltimatePagination/">
+    <Project Path="UltimatePagination/UltimatePagination.Abstraction/UltimatePagination.Abstraction.csproj" />
+    <Project Path="UltimatePagination/UltimatePagination.EF/UltimatePagination.EF.csproj" />
+    <Project Path="UltimatePagination/UltimatePagination/UltimatePagination.csproj" />
+  </Folder>
+  <Folder Name="/_SolutionItems/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+    <File Path="UltimatePagination.sln.DotSettings" />
+  </Folder>
+</Solution>
